@@ -1,0 +1,21 @@
+id,timestamp,user_id,text,label,feature1,feature2
+1,2026-01-01T00:00:00Z,u1001,"User reports slow performance on login.",bug,0.72,12
+2,2026-01-01T00:01:23Z,u1002,"Loved the new update, great UX!",praise,0.15,7
+3,2026-01-01T00:02:45Z,u1003,"Error 503 when accessing /api/data.",bug,0.88,20
+4,2026-01-01T00:03:10Z,u1004,"Would like dark mode option.",feature_request,0.30,5
+5,2026-01-01T00:05:00Z,u1005,"Payment failed with card ending 1234.",bug,0.80,18
+6,2026-01-01T00:06:17Z,u1006,"How do I reset my password?",question,0.40,9
+7,2026-01-01T00:07:50Z,u1007,"App crashes on startup (Android 11).",bug,0.95,25
+8,2026-01-01T00:09:02Z,u1008,"Feature X is very useful, thanks.",praise,0.10,4
+9,2026-01-01T00:10:30Z,u1009,"Request: export data as CSV.",feature_request,0.25,6
+10,2026-01-01T00:11:55Z,u1010,"Subscription renewal not processed.",bug,0.67,14
+11,2026-01-01T00:13:12Z,u1011,"Is two-factor auth supported?",question,0.35,8
+12,2026-01-01T00:14:40Z,u1012,"Localization missing for French.",bug,0.60,11
+13,2026-01-01T00:15:55Z,u1013,"Great performance improvements!",praise,0.12,3
+14,2026-01-01T00:17:20Z,u1014,"Suggestion: add keyboard shortcuts.",feature_request,0.28,5
+15,2026-01-01T00:18:45Z,u1015,"404 on /help/installation.",bug,0.82,19
+16,2026-01-01T00:20:00Z,u1016,"How to integrate with service Y?",question,0.45,10
+17,2026-01-01T00:21:25Z,u1017,"UI overlap on small screens.",bug,0.70,13
+18,2026-01-01T00:22:40Z,u1018,"Thanks for quick support response.",praise,0.09,2
+19,2026-01-01T00:24:05Z,u1019,"Exported file encoding incorrect.",bug,0.76,16
+20,2026-01-01T00:25:30Z,u1020,"Request: bulk user import feature.",feature_request,0.33,6

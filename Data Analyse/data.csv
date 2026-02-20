@@ -1,0 +1,21 @@
+transaction_id,date,customer_id,product_name,category,quantity,unit_price,total_amount,payment_method,order_status
+T001,2026-01-01,C1001,Wireless Mouse,Electronics,1,29.99,29.99,Credit Card,Delivered
+T002,2026-01-01,C1002,USB-C Cable,,2,12.50,25.00,PayPal,Shipped
+T003,2026-01-02,C1003,Phone Case,Accessories,,15.99,15.99,Debit Card,Processing
+T004,2026-01-02,,Laptop Stand,Office,3,34.99,104.97,Credit Card,Delivered
+T005,2026-01-03,C1005,Keyboard Mechanical,Electronics,1,,89.99,Apple Pay,Shipped
+T006,2026-01-03,C1006,,Electronics,1,249.99,249.99,Credit Card,Processing
+T007,2026-01-04,C1001,Webcam HD,Electronics,1,79.99,,PayPal,Delivered
+T008,2026-01-04,C1007,Desk Lamp LED,Office,2,22.50,45.00,,Shipped
+T009,2026-01-05,C1008,Phone Screen Protector,Accessories,5,8.99,44.95,Debit Card,
+T010,2026-01-05,C1009,External SSD 1TB,Electronics,,119.99,119.99,Credit Card,Processing
+T011,2026-01-06,C1010,Mouse Pad,,1,9.99,9.99,PayPal,Shipped
+T012,2026-01-06,,HDMI Cable,Electronics,3,5.99,17.97,Credit Card,Delivered
+T013,2026-01-07,C1012,Notebook Set,,2,14.99,29.98,Apple Pay,Processing
+T014,2026-01-07,C1013,,Accessories,1,19.99,19.99,,Shipped
+T015,2026-01-08,C1002,Portable Charger,Electronics,1,45.99,,PayPal,Delivered
+T016,,C1014,Desk Organizer,Office,1,24.99,24.99,Debit Card,Processing
+T017,2026-01-09,C1015,USB Hub 7 Port,Electronics,,34.99,34.99,Credit Card,Shipped
+T018,2026-01-09,,Pen Set Premium,Office,3,16.99,50.97,PayPal,Delivered
+T019,2026-01-10,C1017,Phone Earbuds,,1,69.99,69.99,Apple Pay,Processing
+T020,2026-01-10,C1018,,Office,1,49.99,49.99,Credit Card,Shipped
